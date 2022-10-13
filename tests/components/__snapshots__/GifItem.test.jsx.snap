@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test en <GifItem /> should math with its snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="star wars"
+      src="https://star-wars.com/yoda.jpg"
+    />
+    <p>
+      star wars
+    </p>
+  </div>
+</div>
+`;
